@@ -1,0 +1,7 @@
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\bin\Debug\BLL.dll
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\bin\Debug\BLL.pdb
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\bin\Debug\DAL.dll
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\bin\Debug\DAL.pdb
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\obj\Debug\BLL.dll
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\BLL\obj\Debug\BLL.pdb

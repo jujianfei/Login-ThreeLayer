@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "Login-ThreeLayer\UI.csproj", "{0AB3C157-2C7E-48D0-8DA6-B0D9905019D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{CEF50949-5778-40B0-9EB2-4E956A0F3982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{B7D45EDF-777C-4C3D-A01C-A3EAF8E22A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB3C157-2C7E-48D0-8DA6-B0D9905019D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB3C157-2C7E-48D0-8DA6-B0D9905019D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB3C157-2C7E-48D0-8DA6-B0D9905019D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB3C157-2C7E-48D0-8DA6-B0D9905019D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF50949-5778-40B0-9EB2-4E956A0F3982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF50949-5778-40B0-9EB2-4E956A0F3982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF50949-5778-40B0-9EB2-4E956A0F3982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF50949-5778-40B0-9EB2-4E956A0F3982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D45EDF-777C-4C3D-A01C-A3EAF8E22A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D45EDF-777C-4C3D-A01C-A3EAF8E22A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D45EDF-777C-4C3D-A01C-A3EAF8E22A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D45EDF-777C-4C3D-A01C-A3EAF8E22A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

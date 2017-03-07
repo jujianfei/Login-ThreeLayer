@@ -1,0 +1,5 @@
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\DAL\bin\Debug\DAL.dll
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\DAL\bin\Debug\DAL.pdb
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\DAL\obj\Debug\DAL.dll
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\DAL\obj\Debug\DAL.pdb
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

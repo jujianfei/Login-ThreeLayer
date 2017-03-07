@@ -1,0 +1,8 @@
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\bin\Debug\Login-ThreeLayer.exe
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\bin\Debug\Login-ThreeLayer.pdb
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login-ThreeLayer.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login_ThreeLayer.frmLogin.resources
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login_ThreeLayer.Properties.Resources.resources
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login-ThreeLayer.csproj.GenerateResource.Cache
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login-ThreeLayer.exe
+C:\Users\琚\Desktop\Login-ThreeLayer\Login-ThreeLayer\Login-ThreeLayer\obj\Debug\Login-ThreeLayer.pdb
